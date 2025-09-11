@@ -3,4 +3,5 @@ project(tasks)
 
 add_subdirectory(task_B)
 add_subdirectory(task_C)
+add_subdirectory(task_E)
 add_subdirectory(task_F)
