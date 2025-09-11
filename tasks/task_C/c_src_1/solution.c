@@ -27,6 +27,9 @@ int main() {
     return 0;
 }
 
+
+
+
 static unsigned int scan_reg_num() {
     unsigned int reg_num = 0;
     if(scanf("%u", &reg_num) != 1) {
